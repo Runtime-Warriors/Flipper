@@ -90,4 +90,4 @@ This is a photo editing app where users will either upload an existing photo or 
 # Milestone 2 - Flipper
 
 **Build Progress**
-<img src='https://i.imgur.com/MYdvg9s.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://i.imgur.com/MYdvg9s.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
