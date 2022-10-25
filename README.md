@@ -86,3 +86,8 @@ This is a photo editing app where users will either upload an existing photo or 
 <img src="https://i.imgur.com/po5g3Mr.png" width=600>
 
 ### [BONUS] Interactive Prototype
+
+# Milestone 2 - Flipper
+
+**Build Progress**
+<img src="" width=600>
