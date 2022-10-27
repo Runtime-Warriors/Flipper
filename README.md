@@ -51,7 +51,7 @@ This is a photo editing app where users will either upload an existing photo or 
 
 ### 2. Screen Archetypes
 
-- Homepage
+[x]- Homepage
   - User can choose to upload a photo
   - User can choose to take a photo
 - Editing page
