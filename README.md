@@ -36,10 +36,10 @@ This is a photo editing app where users will either upload an existing photo or 
 
 **Required Features**
 
-* Can upload a picture 
-* Can flip the photo 
-* Can apply photo filters 
-* Can view a list of previously taken photos
+- [ ] Can upload a picture 
+- [ ] Can flip the photo 
+- [ ] Can apply photo filters 
+- [ ] Can view a list of previously taken photos
 
 **Stretch Features**
 
@@ -91,10 +91,4 @@ This is a photo editing app where users will either upload an existing photo or 
 
 **Build Progress**
 
-<img src="https://github.com/Runtime-Warriors/Flipper/blob/main/Kapture%202022-10-24%20at%2023.39.54.gif" width=300>
-
-### Milestone 3 - Flipper
-
-**Build Progress**
-
-
+<img src="https://github.com/Runtime-Warriors/Flipper/blob/main/Kapture%202022-10-24%20at%2023.39.54.gif" width=600>
