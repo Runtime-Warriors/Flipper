@@ -53,7 +53,7 @@ This is a photo editing app where users will either upload an existing photo or 
 
 [x]- Homepage
 [x]  - User can choose to upload a photo
-  - User can choose to take a photo
+[x]- User can choose to take a photo
 [x] - Editing page
   - User can edit their photos
   - User can choose which filter to apply to their photo
@@ -91,4 +91,10 @@ This is a photo editing app where users will either upload an existing photo or 
 
 **Build Progress**
 
-<img src="https://github.com/Runtime-Warriors/Flipper/blob/main/Kapture%202022-10-24%20at%2023.39.54.gif" width=600>
+<img src="https://github.com/Runtime-Warriors/Flipper/blob/main/Kapture%202022-10-24%20at%2023.39.54.gif" width=300>
+
+### Milestone 3 - Flipper
+
+**Build Progress**
+
+<img src="screens/picker.gif" width="280" height="498" alt="Gif"/>
