@@ -93,7 +93,7 @@ This is a photo editing app where users will either upload an existing photo or 
 
 <img src="https://github.com/Runtime-Warriors/Flipper/blob/main/Kapture%202022-10-24%20at%2023.39.54.gif" width=300>
 
-### Milestone 3 - Flipper
+### Milestone 3 - New name ? Picker ?
 
 **Build Progress**
 
