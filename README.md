@@ -52,7 +52,7 @@ This is a photo editing app where users will either upload an existing photo or 
 ### 2. Screen Archetypes
 
 [x]- Homepage
-[x]  - User can choose to upload a photo
+  - User can choose to upload a photo
 [x]- User can choose to take a photo
 [x] - Editing page
   - User can edit their photos
@@ -97,4 +97,4 @@ This is a photo editing app where users will either upload an existing photo or 
 
 **Build Progress**
 
-<img src="screens/picker.gif" width="280" height="498" alt="Gif"/>
+<img src="https://i.imgur.com/JN6qAZa.gif" width="280" height="498" alt="Gif"/>
