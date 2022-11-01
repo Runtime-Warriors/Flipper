@@ -98,3 +98,6 @@ This is a photo editing app where users will either upload an existing photo or 
 **Build Progress**
 
 <img src="https://i.imgur.com/JN6qAZa.gif" width="280" height="498" alt="Gif"/>
+
+
+<img src ="https://i.imgur.com/ZIuXAXP.gif" width=300>
