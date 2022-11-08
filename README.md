@@ -64,7 +64,7 @@ This is a photo editing app where users will either upload an existing photo or 
 
 **Tab Navigation** (Tab to Screen)
 
-* Home Screen
+- [x] Home Screen
 * Gallery
 
 **Flow Navigation** (Screen to Screen)
