@@ -99,4 +99,8 @@ This is a photo editing app where users will either upload an existing photo or 
 
 <img src="https://i.imgur.com/JN6qAZa.gif" width="280" height="498" alt="Gif"/>
 
+**Build Progress**
+
+<img src="http://g.recordit.co/EW5rHJa2yt.gif" width="280" height="498" alt="Gif"/>
+
 
