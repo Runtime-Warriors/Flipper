@@ -108,4 +108,4 @@ This is a photo editing app where users will either upload an existing photo or 
 
 **Build Progress**
 
-<img src="http://g.recordit.co/EW5rHJa2yt.gif" width="280" height="498" alt="Gif"/>
+<img src="https://github.com/Runtime-Warriors/Flipper/blob/main/Filters.gif" width="280" height="498" alt="Gif"/>
