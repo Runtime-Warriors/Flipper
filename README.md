@@ -104,7 +104,7 @@ This is a photo editing app where users will either upload an existing photo or 
 <img src="http://g.recordit.co/EW5rHJa2yt.gif" width="280" height="498" alt="Gif"/>
 
 
-### Milestone 4 - Apply filter screen
+### Milestone 5 - Apply filter screen
 
 **Build Progress**
 
