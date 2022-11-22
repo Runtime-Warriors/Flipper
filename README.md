@@ -109,3 +109,10 @@ This is a photo editing app where users will either upload an existing photo or 
 **Build Progress**
 
 <img src="https://github.com/Runtime-Warriors/Flipper/blob/main/Filters.gif" width="280" height="498" alt="Gif"/>
+
+### Milestone 6 - Apply different filters on one photo ?
+
+**Build Progress**
+
+<img src="https://github.com/Runtime-Warriors/Flipper/blob/main/Filters.gif" width="280" height="498" alt="Gif"/>
+
