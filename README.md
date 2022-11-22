@@ -44,7 +44,7 @@ This is a photo editing app where users will either upload an existing photo or 
 **Stretch Features**
 
 * [x] Can take a picture with a camera 
-* [x] Can create a collage with two photos
+* [ ] Can create a collage with two photos
 * [ ] Display previously taken photos in a gallery format
 * [ ] Export photo to social media / save photo 
 
@@ -52,7 +52,7 @@ This is a photo editing app where users will either upload an existing photo or 
 ### 2. Screen Archetypes
 
 * [x] Homepage
-* [x] User can choose to upload a photo
+* [ ] User can choose to upload a photo
 * [x] User can choose to take a photo
 * [x] Editing page
 * [x] User can edit their photos
