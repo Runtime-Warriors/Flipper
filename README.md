@@ -51,21 +51,21 @@ This is a photo editing app where users will either upload an existing photo or 
 
 ### 2. Screen Archetypes
 
-*[x] Homepage
-*[x] User can choose to upload a photo
-*[x] User can choose to take a photo
-*[x] Editing page
-*[x] User can edit their photos
-*[ ] User can choose which filter to apply to their photo
-*[ ] Gallery
-*[ ] User can see previously taken photos by date
+* [x] Homepage
+* [x] User can choose to upload a photo
+* [x] User can choose to take a photo
+* [x] Editing page
+* [x] User can edit their photos
+* [ ] User can choose which filter to apply to their photo
+* [ ] Gallery
+* [ ] User can see previously taken photos by date
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-*[x] Home Screen
-*[ ] Gallery
+* [x] Home Screen
+* [ ] Gallery
 
 **Flow Navigation** (Screen to Screen)
 
