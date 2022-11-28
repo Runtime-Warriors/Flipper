@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2B398E</color>
+    <color name="primaryDark">#253078</color>
+    <color name="secondary">#FEEAA5</color>
+    <color name="primaryText">#AEACAC</color>
+    <color name="secondaryText">#FFFEFE</color>
+    <color name="landingBackgroundCenter">#DC000000</color>
+    <color name="landingBackgroundEnd">#F6000000</color>
+    <color name="buttonSavedImages">#81C784</color>
+    <color name="buttonEditImageFromGallery">#FFB74D</color>
+    <color name="buttonTakePhoto">@color/primary</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
