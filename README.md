@@ -120,4 +120,4 @@ This is a photo editing app where users will either upload an existing photo or 
 
 **Build Progress**
 
-<img src="https://i.imgur.com/3NHXWdM.gif" width="280" height="498" alt="Gif"/>
+<img src="https://github.com/Runtime-Warriors/Flipper/blob/main/FLipperr.gif?raw=true" width="280" height="498" alt="Gif"/>
