@@ -116,3 +116,8 @@ This is a photo editing app where users will either upload an existing photo or 
 
 <img src="https://github.com/Runtime-Warriors/Flipper/blob/main/Filters.gif" width="280" height="498" alt="Gif"/>
 
+### Milestone 7 - Connect different screens and test functionality
+
+**Build Progress**
+
+<img src="https://i.imgur.com/3NHXWdM.gif" width="280" height="498" alt="Gif"/>
