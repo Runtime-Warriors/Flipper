@@ -36,28 +36,28 @@ This is a photo editing app where users will either upload an existing photo or 
 
 **Required Features**
 
- * [ ] Can upload a picture 
+ * [x] Can upload a picture 
  * [ ] Can flip the photo 
  * [x] Can apply photo filters 
- * [ ] Can view a list of previously taken photos
+ * [x] Can view a list of previously taken photos
 
 **Stretch Features**
 
 * [x] Can take a picture with a camera 
 * [ ] Can create a collage with two photos
-* [ ] Display previously taken photos in a gallery format
-* [ ] Export photo to social media / save photo 
+* [x] Display previously taken photos in a gallery format
+* [x] Export photo to social media / save photo 
 
 
 ### 2. Screen Archetypes
 
 * [x] Homepage
-* [ ] User can choose to upload a photo
+* [x] User can choose to upload a photo
 * [x] User can choose to take a photo
 * [x] Editing page
 * [x] User can edit their photos
-* [ ] User can choose which filter to apply to their photo
-* [ ] Gallery
+* [x] User can choose which filter to apply to their photo
+* [x] Gallery
 * [ ] User can see previously taken photos by date
 
 ### 3. Navigation
@@ -65,7 +65,7 @@ This is a photo editing app where users will either upload an existing photo or 
 **Tab Navigation** (Tab to Screen)
 
 * [x] Home Screen
-* [ ] Gallery
+* [x] Gallery
 
 **Flow Navigation** (Screen to Screen)
 
