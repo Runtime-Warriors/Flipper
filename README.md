@@ -36,14 +36,14 @@ This is a photo editing app where users will either upload an existing photo or 
 
 **Required Features**
 
- * [x] Can upload a picture 
- * [ ] Can flip the photo 
+ * [x] Can upload a picture  
  * [x] Can apply photo filters 
  * [x] Can view a list of previously taken photos
+ * [x] Can take a picture with a camera 
 
 **Stretch Features**
 
-* [x] Can take a picture with a camera 
+* [ ] Can flip the photo
 * [ ] Can create a collage with two photos
 * [x] Display previously taken photos in a gallery format
 * [x] Export photo to social media / save photo 
