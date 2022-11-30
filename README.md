@@ -1,4 +1,4 @@
-# Flipper - Now called "Edit it Now" as of 11/28
+# Flipper - Now called "Funnel" as of 11/29
 
 # Milestone 1 - Flipper
 
